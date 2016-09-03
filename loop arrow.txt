@@ -1,0 +1,23 @@
+for (int i = 0; i < 15;i++ )
+            {
+                for (int j = 0; j<i;j++ )
+                {
+                    Console.Write("  ");
+
+                }
+                Console.WriteLine("*");
+            }
+            for (int i = 0; i < 30;i++ )
+            {
+                Console.Write("*");
+            }
+            Console.WriteLine();
+            for (int i = 0; i < 15;i++ )
+            {
+                for (int j = i; j < 15;j++ )
+                {
+                    Console.Write("  ");
+                }
+                Console.WriteLine("*");
+
+            }

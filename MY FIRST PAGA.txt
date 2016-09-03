@@ -1,0 +1,16 @@
+<!doc type >
+<html>
+
+      <head>
+        <title> My First Page</title>
+         </head>
+<body>
+   <h1>ehtasham</h1>
+   <h2>shiekh</h2>
+   <h3>hello world</h3>
+    <h4>yahoo</h4>
+    <h5>hotmail</h5>
+    <h6>facebook</h6>
+     EHTASHAM SHIEKH
+</BODY>
+</HTML>
